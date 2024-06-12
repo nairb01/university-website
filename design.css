@@ -276,14 +276,15 @@ padding: 100px;
 }
 /*------call to action------*/
 .cta{
-    margin: 100px auto;
-    width: 80%;
+    margin: 70px auto;
+    width: 100%;
      background-image : linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/banner2.jpg); 
     background-position: center;
     background-size: cover;
-    border-radius: 10px;
+    border-radius: 0px;
     text-align: center;
     padding: 100px 0;
+    background-attachment: fixed;
     
 }
 .cta h1{
